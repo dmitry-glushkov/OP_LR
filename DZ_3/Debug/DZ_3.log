@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\globy\desktop\инфа\код\ооп\dz\dz_3\dz_3\dz_3\main.cpp(33): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\globy\desktop\инфа\код\ооп\dz\dz_3\dz_3\dz_3\main.cpp(46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  DZ_3.vcxproj -> C:\Users\globy\Desktop\Инфа\Код\ООП\DZ\DZ_3\DZ_3\Debug\DZ_3.exe
